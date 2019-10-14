@@ -5,8 +5,8 @@ import (
 )
 
 
-funct main {
+func main () {
 
 	fmt.Println("Main function of main.go in repository mgtest");
-	
+	fmt.Println("Second commit of main.go");
 }
